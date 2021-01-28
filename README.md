@@ -4,7 +4,7 @@
 
 API
 
-- [ ] nnpm init -y
+- [ ] npm init -y
 - [ ] npm i express nodemon cors axios
 - [ ] Create route API 
 - [ ] Server API
